@@ -1,0 +1,25 @@
+.App{
+  
+  background-color: #FCFCFC;
+  padding-top: 0px;
+  background-repeat: no-repeat,no-repeat;
+  margin: 0px;
+  height:800px ;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-top: -15px;
+  
+  margin-left: -17px;
+ 
+  background-size: 750px,600px;
+  background-origin: margin-box,padding-box;
+  background-position-y: 0%,60%;
+ background-position-x: 0%,90%;
+
+
+}
+.p-3 mb-2{
+  background-image: url("./Assets/Path 246.png");
+}
+
+
